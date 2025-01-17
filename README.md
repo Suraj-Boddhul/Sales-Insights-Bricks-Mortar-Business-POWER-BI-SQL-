@@ -25,6 +25,19 @@ Key learnings:
  
    Publishing to power BI Service. 
 
+Sales Reports
+
+https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/sales_insights%20PowerBI%20Feedback%20Improvement.pdf
+
+https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/sales_insights%20PowerBI%20Feedback%20Improvement.pbix
+
+https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/Performance%20Insights.png
+
+https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/Profit%20Analysis.png
+
+https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/Sales%20Insights%20Customer%20Type%20Key%20Metrics.png
+
+
 
 Conclusion:
 
@@ -35,6 +48,7 @@ Driving Future Success:
   I am excited to apply these insights and skills to future projects, driving continued growth and success.
 
 Thank you for reading.😊
+
 
 #
 
