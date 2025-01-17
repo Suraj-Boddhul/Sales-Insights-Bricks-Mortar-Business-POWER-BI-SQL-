@@ -28,8 +28,11 @@ Key learnings:
 Sales Reports
 
 https://app.powerbi.com/groups/me/reports/12de6c11-4f55-42a0-8675-9088d9b1f94b/d032985ec1c1fb1ca876?experience=power-bi
+
 https://app.powerbi.com/groups/me/reports/12de6c11-4f55-42a0-8675-9088d9b1f94b/e5dfbe042bacaa84ce3f?experience=power-bi
+
 https://app.powerbi.com/groups/me/reports/12de6c11-4f55-42a0-8675-9088d9b1f94b/253aef25e2d2a79fc3a3?experience=power-bi
+
 https://app.powerbi.com/groups/me/reports/12de6c11-4f55-42a0-8675-9088d9b1f94b/a2bf66dd202192360bbb?experience=power-bi
 
 https://github.com/Suraj-Boddhul/Sales-Insights-Bricks-Mortar-Business-POWER-BI-SQL-/blob/main/sales_insights%20PowerBI%20Feedback%20Improvement.pdf
